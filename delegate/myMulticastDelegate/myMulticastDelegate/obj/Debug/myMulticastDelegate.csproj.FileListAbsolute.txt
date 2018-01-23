@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\bin\Debug\myMulticastDelegate.exe.config
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\bin\Debug\myMulticastDelegate.exe
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\bin\Debug\myMulticastDelegate.pdb
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\obj\Debug\myMulticastDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\obj\Debug\myMulticastDelegate.exe
+C:\Users\Y\Desktop\myMulticastDelegate\myMulticastDelegate\obj\Debug\myMulticastDelegate.pdb

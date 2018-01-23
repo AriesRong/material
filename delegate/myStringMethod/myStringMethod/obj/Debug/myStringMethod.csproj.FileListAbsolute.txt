@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\bin\Debug\myStringMethod.exe.config
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\bin\Debug\myStringMethod.exe
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\bin\Debug\myStringMethod.pdb
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\obj\Debug\myStringMethod.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\obj\Debug\myStringMethod.exe
+C:\Users\Y\Desktop\myStringMethod\myStringMethod\obj\Debug\myStringMethod.pdb
