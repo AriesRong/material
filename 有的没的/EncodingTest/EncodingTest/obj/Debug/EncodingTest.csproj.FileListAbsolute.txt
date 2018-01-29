@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\bin\Debug\EncodingTest.exe.config
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\bin\Debug\EncodingTest.exe
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\bin\Debug\EncodingTest.pdb
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\obj\Debug\EncodingTest.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\obj\Debug\EncodingTest.exe
+C:\Users\Y\Desktop\EncodingTest\EncodingTest\obj\Debug\EncodingTest.pdb
