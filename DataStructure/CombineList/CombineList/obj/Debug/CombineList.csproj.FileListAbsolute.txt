@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\CombineList\CombineList\bin\Debug\CombineList.exe.config
+C:\Users\Y\Desktop\CombineList\CombineList\bin\Debug\CombineList.exe
+C:\Users\Y\Desktop\CombineList\CombineList\bin\Debug\CombineList.pdb
+C:\Users\Y\Desktop\CombineList\CombineList\obj\Debug\CombineList.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\CombineList\CombineList\obj\Debug\CombineList.exe
+C:\Users\Y\Desktop\CombineList\CombineList\obj\Debug\CombineList.pdb

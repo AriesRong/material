@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\BoTree\BoTree\bin\Debug\BoTree.exe.config
+C:\Users\Y\Desktop\BoTree\BoTree\bin\Debug\BoTree.exe
+C:\Users\Y\Desktop\BoTree\BoTree\bin\Debug\BoTree.pdb
+C:\Users\Y\Desktop\BoTree\BoTree\obj\Debug\BoTree.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\BoTree\BoTree\obj\Debug\BoTree.exe
+C:\Users\Y\Desktop\BoTree\BoTree\obj\Debug\BoTree.pdb

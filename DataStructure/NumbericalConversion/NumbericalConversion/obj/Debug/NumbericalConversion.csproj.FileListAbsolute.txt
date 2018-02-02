@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\bin\Debug\NumbericalConversion.exe.config
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\bin\Debug\NumbericalConversion.exe
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\bin\Debug\NumbericalConversion.pdb
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\obj\Debug\NumbericalConversion.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\obj\Debug\NumbericalConversion.exe
+C:\Users\Y\Desktop\NumbericalConversion\NumbericalConversion\obj\Debug\NumbericalConversion.pdb

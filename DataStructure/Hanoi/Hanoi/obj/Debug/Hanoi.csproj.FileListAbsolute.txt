@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\Y\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\Y\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\Y\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\Y\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
