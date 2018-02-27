@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\bin\Debug\SortSummarize.exe.config
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\bin\Debug\SortSummarize.exe
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\bin\Debug\SortSummarize.pdb
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\obj\Debug\SortSummarize.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\obj\Debug\SortSummarize.exe
+C:\Users\Y\Desktop\SortSummarize\SortSummarize\obj\Debug\SortSummarize.pdb
