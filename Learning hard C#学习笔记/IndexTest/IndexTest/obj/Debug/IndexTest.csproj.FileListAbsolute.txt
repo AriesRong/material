@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\IndexTest\IndexTest\bin\Debug\IndexTest.exe.config
+C:\Users\Y\Desktop\IndexTest\IndexTest\bin\Debug\IndexTest.exe
+C:\Users\Y\Desktop\IndexTest\IndexTest\bin\Debug\IndexTest.pdb
+C:\Users\Y\Desktop\IndexTest\IndexTest\obj\Debug\IndexTest.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\IndexTest\IndexTest\obj\Debug\IndexTest.exe
+C:\Users\Y\Desktop\IndexTest\IndexTest\obj\Debug\IndexTest.pdb
