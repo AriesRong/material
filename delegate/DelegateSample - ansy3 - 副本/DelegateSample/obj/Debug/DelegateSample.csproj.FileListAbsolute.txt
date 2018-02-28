@@ -28,3 +28,6 @@ C:\Users\Y\Desktop\DelegateSample - ansy3 - 副本\DelegateSample\obj\Debug\Dele
 C:\Users\Y\Desktop\DelegateSample - ansy3 - 副本\DelegateSample\bin\Debug\DelegateSample.exe
 C:\Users\Y\Desktop\DelegateSample - ansy3 - 副本\DelegateSample\bin\Debug\DelegateSample.pdb
 C:\Users\Y\Desktop\DelegateSample - ansy3 - 副本\DelegateSample\obj\Debug\DelegateSample.csprojResolveAssemblyReference.cache
+D:\github\material\delegate\DelegateSample - ansy3 - 副本\DelegateSample\bin\Debug\DelegateSample.exe.config
+D:\github\material\delegate\DelegateSample - ansy3 - 副本\DelegateSample\obj\Debug\DelegateSample.exe
+D:\github\material\delegate\DelegateSample - ansy3 - 副本\DelegateSample\obj\Debug\DelegateSample.pdb
