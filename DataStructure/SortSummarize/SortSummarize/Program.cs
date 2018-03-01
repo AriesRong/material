@@ -33,7 +33,7 @@ namespace SortSummarize
             Console.WriteLine("4.Quick Sort");
             Console.WriteLine("5.Shell Sort");
             Console.WriteLine("6.Merge Sort");
-            Console.WriteLine("");
+            Console.WriteLine("7.Heap Sort");
         }
 
         private static int[] Sort(int choicedWay, int[] inputNumber)
@@ -58,6 +58,9 @@ namespace SortSummarize
                     break;
                 case 6:
                     sortMethod = new MergeSort();
+                    break;
+                case 7:
+                    sortMethod = new HeapSort();
                     break;
                 default:
                     sortMethod = null;
