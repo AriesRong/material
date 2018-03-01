@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\bin\Debug\childInitOrder.exe.config
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\bin\Debug\childInitOrder.exe
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\bin\Debug\childInitOrder.pdb
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\obj\Debug\childInitOrder.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\obj\Debug\childInitOrder.exe
+C:\Users\Y\Desktop\childInitOrder\childInitOrder\obj\Debug\childInitOrder.pdb
