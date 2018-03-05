@@ -1,0 +1,6 @@
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\bin\Debug\DelegateTeat.exe.config
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\obj\Debug\DelegateTeat.csprojResolveAssemblyReference.cache
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\bin\Debug\DelegateTeat.exe
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\bin\Debug\DelegateTeat.pdb
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\obj\Debug\DelegateTeat.exe
+C:\Users\Aries\Desktop\DelegateTeat\DelegateTeat\obj\Debug\DelegateTeat.pdb
